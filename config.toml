@@ -6,7 +6,7 @@
 baseurl = "https://arm4nn.github.io/"
 
 # Title of your site
-title = "Academic"
+title = "Araman Jabbari"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -55,16 +55,16 @@ defaultContentLanguageInSubdir = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "IEOR | UC Berkeley", url = "http://ieor.berkeley.edu/" } ]
+  organizations = [ { name = "IEOR ", url = "http://ieor.berkeley.edu/" }, { name = "| UC Berkeley ", url = "https://www.berkeley.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
+  email = "a.jabbari@berkeley.edu"
   address = "Etcheverry Hall, University of California - Berkeley, California, 94720, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
-  telegram = ""
+  office_hours = "Not available"
+  phone = "929 330 08 05"
+  skype = "Not available"
+  telegram = "+1 929 330 08 05"
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
@@ -217,22 +217,22 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "mailto:a.jabbari@berkeley.edu"
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+    link = "//twitter.com/TheAraman"
 
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    link = "Not Available"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "//github.com/arm4nn"
 
 
 # Navigation Links
