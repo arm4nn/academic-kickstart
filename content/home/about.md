@@ -35,6 +35,6 @@ weight = 5
 
 # Biography
 
-Araman Jabbari received his B.Sc. and M.Sc. in Industrial Engineering from Sharif University of Technology in 2013 and 2015. Given his interest in optimization, he found it optimal to pursue his education at one of the best engineering schools in the world: UC Berkeley.
+Arman Jabbari received his B.Sc. and M.Sc. in Industrial Engineering from Sharif University of Technology in 2013 and 2015. Given his interest in optimization, he found it optimal to pursue his education at one of the best engineering schools in the world: UC Berkeley.
 
 He received his second M.Sc. from UC Berkeley in 2016, and he is pursuing his Ph.D. in Industrial Engineering and Operations Research, which is expected to be granted in 2020. During his graduate studies, he developed an interest in project supply chain management, where he can apply his passion for optimization to overcome real-world obstacles.
