@@ -17,7 +17,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD Candidate in IEOR"
+  course = "PhD Candidate in Industrial Engineering & Operations Research"
   institution = "University of California, Berkeley"
 
 
@@ -35,6 +35,6 @@ weight = 5
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Araman Jabbari received his B.Sc. and M.Sc. in Industrial Engineering from Sharif University of Technology in 2013 and 2015. Given his interest in optimization, he found it optimal to pursue his education at one of the best engineering schools in the world: UC Berkeley.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+He received his second M.Sc. from UC Berkeley in 2016, and he is pursuing his Ph.D. in Industrial Engineering and Operations Research, which is expected to be granted in 2020. During his graduate studies, he developed an interest in project supply chain management, where he can apply his passion for optimization to overcome real-world obstacles.
