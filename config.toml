@@ -47,7 +47,7 @@ defaultContentLanguageInSubdir = false
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "default"
+  font = "classic"
 
   # Your details.
   name = "Araman Jabbari"
@@ -55,7 +55,7 @@ defaultContentLanguageInSubdir = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "IEOR ", url = "http://ieor.berkeley.edu/" }, { name = "| UC Berkeley ", url = "https://www.berkeley.edu/" } ]
+  organizations = [ { name = "Industrial Engineering & Operation Research", url = "http://ieor.berkeley.edu/" }, { name = "University of California, Berkeley", url = "https://www.berkeley.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -63,8 +63,8 @@ defaultContentLanguageInSubdir = false
   address = "Etcheverry Hall, University of California - Berkeley, California, 94720, USA"
   office_hours = "Not available"
   phone = "929 330 08 05"
-  skype = "Not available"
-  telegram = "+1 929 330 08 05"
+  skype = "jabbari.arman"
+  telegram = "9293300805"
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
@@ -279,7 +279,7 @@ defaultContentLanguageInSubdir = false
   category = "categories"
   publication_type = "publication_types"
 
-# Languages
+# Language
 #   Create a [languages.X] block for each language you want, where X is the language ID.
 
 # Configure the English version of the website.
