@@ -6,7 +6,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Araman Jabbari"
+title = "Arman Jabbari"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -50,7 +50,7 @@ defaultContentLanguageInSubdir = false
   font = "playfair"
 
   # Your details.
-  name = "Araman Jabbari"
+  name = "Arman Jabbari"
   role = "PhD Candidate"
 
   # Organizations/Affiliations.
@@ -64,7 +64,7 @@ defaultContentLanguageInSubdir = false
   office_hours = "Not available"
   phone = "929 330 08 05"
   skype = "jabbari.arman"
-  telegram = "Aramanjabbari"
+  telegram = "TheArmanJabbari"
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
