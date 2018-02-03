@@ -58,13 +58,13 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "Industrial Engineering & Operation Research", url = "http://ieor.berkeley.edu/" }, { name = "University of California, Berkeley", url = "https://www.berkeley.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "BW.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "a.jabbari@berkeley.edu"
   address = "Etcheverry Hall, University of California - Berkeley, California, 94720, USA"
   office_hours = "Not available"
   phone = "929 330 08 05"
   skype = "jabbari.arman"
-  telegram = "9293300805"
+  telegram = "Aramanjabbari"
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
