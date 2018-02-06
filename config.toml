@@ -64,7 +64,7 @@ defaultContentLanguageInSubdir = false
 #  office_hours = "Not available"
   phone = "929 330 08 05"
   skype = "jabbari.arman"
-  telegram = "TheArmanJabbari"
+  telegram = "Arman_Jabbari"
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
@@ -222,7 +222,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/TheAraman"
+    link = "//twitter.com/ArmanJabbari"
 
   [[params.social]]
     icon = "google-scholar"
