@@ -58,7 +58,7 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "Industrial Engineering & Operations Research", url = "http://ieor.berkeley.edu/" }, { name = "University of California, Berkeley", url = "https://www.berkeley.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "about.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "a.jabbari@berkeley.edu"
   address = "Etcheverry Hall, Berkeley, California, 94720"
 #  office_hours = "Not available"
