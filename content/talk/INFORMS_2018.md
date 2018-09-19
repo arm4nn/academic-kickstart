@@ -1,5 +1,5 @@
 +++
-title = "Example Talk"
+title = "The Inventory Vs. Timeliness Tradeoff In Project Delivery"
 date = 2017-01-01T00:00:00  # Schedule page publish date.
 draft = false
 
@@ -9,18 +9,18 @@ time_start = 2030-06-01T13:00:00
 time_end = 2030-06-01T15:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = []
+authors = ["Phil Kaminsky", "Arman Jabbari"]
 
 # Abstract and optional shortened version.
-abstract = ""
-abstract_short = ""
+abstract = "We explore the tradeoffs between inventory cost and project completion times in a variety of settings, across single and multiple projects."
+abstract_short = "We explore the tradeoffs between inventory cost and project completion times in a variety of settings, across single and multiple projects."
 
 # Name of event and optional event URL.
-event = "Academic Theme Conference"
-event_url = "https://example.org"
+event = "INFORMS Annual Meeting"
+event_url = "http://meetings2.informs.org/wordpress/phoenix2018/"
 
 # Location of event.
-location = "London, United Kingdom"
+location = "Phoenix, Arizona"
 
 # Is this a selected talk? (true/false)
 selected = false
@@ -30,7 +30,7 @@ selected = false
 #   Simply enter your project's filename without extension.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
 #   Otherwise, set `projects = []`.
-projects = ["deep-learning"]
+projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -38,7 +38,7 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_slides = "slides/example-slides"
+url_slides = ""
 url_video = ""
 url_code = ""
 
@@ -51,20 +51,8 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+image = ""
+caption = ""
 
 +++
-
-{{% alert note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /alert %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Academic's *Slides* feature and link using `url_slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
-Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
 
