@@ -28,7 +28,7 @@ abstract = "The aim of this project is to explore, in a qualitative sense, the p
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
