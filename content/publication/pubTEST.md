@@ -1,5 +1,5 @@
 +++
-title = "Mobile visual clothing search"
+title = "MMMobile visual clothing search"
 date = 2013-07-01T00:00:00
 draft = false
 
