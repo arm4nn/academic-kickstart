@@ -1,5 +1,5 @@
 +++
-title = "The Inventory Vs. Timeliness Tradeoff In Project Delivery"
+title = "Incorporating Suppliers into Capital Project Scheduling"
 date = 2017-01-01T00:00:00  # Schedule page publish date.
 draft = false
 
