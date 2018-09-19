@@ -224,10 +224,6 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "//twitter.com/ArmanJabbari"
 
-  [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = "Not Available"
 
   [[params.social]]
     icon = "github"
