@@ -15,11 +15,11 @@ authors = ["Arman Jabbari", "Phil Kaminsky"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["4"]
+publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
-publication = "Journal of Project Production Managemenet"
-publication_short = "Journal of Project Production Managemenet"
+publication = "White Paper"
+publication_short = "White Paper"
 
 # Abstract and optional shortened version.
 abstract = "Many authors have explored the potential impact of blockchain on supply chain management, and indeed, many articles in the popular press extol the potential of blockchain to impact thesupply  chain.   In  this  white  paper,  we  argue  that  while  blockchain  does  have  some  potentialto  impact  supply  chains  in  the  short  term,  many  of  the  potential  blockchain-enabled  supplychain impacts will require significant research advances.  We identify four categories of issuesthat researchers must address in order for many of the interesting proposed blockchain-enabledsupply chain use cases to be feasible.  If these issues are addressed, we have little doubt that thepotential of blockchain-enabled supply chain is enormous. <br/>  **This research was funded by a grant from the College Industry Council on MaterialHandling Education (CICMHE). P. Kaminsky served on CICMHE from 2014-2017.**"
@@ -42,7 +42,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://projectproduction.org/wp-content/uploads/2017/09/PPI-JOURNAL-RD-Preliminary-Investigations-into-Capital-Projects-Supply-Chain-Management.pdf"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -54,7 +54,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Custom Link", url = "https://projectproduction.org/journal/research-digest-preliminary-investigations-into-capital-projects-supply-chain-management/"}]
+url_custom = []
 
 # Digital Object Identifier (DOI)
 doi = ""
