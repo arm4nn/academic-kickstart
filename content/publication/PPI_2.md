@@ -1,10 +1,10 @@
 +++
-title = "MMMobile visual clothing search"
+title = "Preliminary Investigations into Capital Projects Supply Chain Management"
 date = 2013-07-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["GA Cushen", "MS Nixon"]
+authors = ["Arman Jabbari", "Phil Kaminsky"]
 
 # Publication type.
 # Legend:
@@ -15,10 +15,10 @@ authors = ["GA Cushen", "MS Nixon"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Conference on Multimedia and Expo Workshops (ICMEW)*, IEEE."
+publication = "Journal of Project Production Managemenet"
 publication_short = "In *ICMEW*"
 
 # Abstract and optional shortened version.
