@@ -22,7 +22,7 @@ publication = "Journal of Project Production Managemenet"
 publication_short = "Journal of Project Production Managemenet"
 
 # Abstract and optional shortened version.
-abstract = "The aim of this project is to explore, in a qualitative sense, the practice of earliness and delays in materials and parts delivery during the delivery of a capital project. We hypothesize that this current practice exists because available tools are limited: project managers have limited knowledge of trade-offs and limited incentives to effectively trade-off cost and project performance, despite the fact that even project managers believe current practices are likely to negatively impact project performance. The output of this project will be the development of models to explain why current practice is not optimal, as well as the formation of tools that will support optimal decision-making in this setting."
+abstract = "The aim of this project is to explore, in a qualitative sense, the practice of earliness and delays in materials and parts delivery during the delivery of a capital project. <br/> We hypothesize that this current practice exists because available tools are limited: project managers have limited knowledge of trade-offs and limited incentives to effectively trade-off cost and project performance, despite the fact that even project managers believe current practices are likely to negatively impact project performance. <br/> The output of this project will be the development of models to explain why current practice is not optimal, as well as the formation of tools that will support optimal decision-making in this setting."
 
 # Featured image thumbnail (optional)
 image_preview = ""
