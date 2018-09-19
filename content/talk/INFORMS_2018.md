@@ -16,7 +16,7 @@ abstract = "We explore the tradeoffs between inventory cost and project completi
 abstract_short = "We explore the tradeoffs between inventory cost and project completion times in a variety of settings, across single and multiple projects."
 
 # Name of event and optional event URL.
-event = "INFORMS Annual Meeting"
+event = "INFORMS Annual Meeting 2018"
 event_url = "http://meetings2.informs.org/wordpress/phoenix2018/"
 
 # Location of event.

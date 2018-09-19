@@ -5,22 +5,21 @@ draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2018-11-04T11:00:00
-time_end = 2018-11-04T11:15:00
+time_start = 2018-10-24T12:05:00
+time_end = 2018-10-24T12:25:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Phil Kaminsky", "Arman Jabbari"]
+authors = ["Arman Jabbari", "Phil Kaminsky"]
 
 # Abstract and optional shortened version.
-abstract = "We explore the tradeoffs between inventory cost and project completion times in a variety of settings, across single and multiple projects."
-abstract_short = "We explore the tradeoffs between inventory cost and project completion times in a variety of settings, across single and multiple projects."
+abstract = "The majority of capital projects are completed after their intended completion date and over budget, often due to inefficiencies in the way their supply chains are managed. After conducting extensive with practitioners in the oil and gas industry, we have identified the relationship between the project schedule and the procurement plan as one cause of these problems. As part of a larger project to develop approaches to simultaneously develop schedules and plan procurement, we need to bound certain online scheduling problems. Here, we prove that the DSPT algorithm is 2-competitive for the online version of minimizing modified total tardiness."
 
 # Name of event and optional event URL.
-event = "INFORMS Annual Meeting"
-event_url = "http://meetings2.informs.org/wordpress/phoenix2018/"
+event = "INFORMS Annual Meeting 2017"
+event_url = "http://meetings2.informs.org/wordpress/houston2017/"
 
 # Location of event.
-location = "Phoenix, Arizona"
+location = "Houston, Texas"
 
 # Is this a selected talk? (true/false)
 selected = false
