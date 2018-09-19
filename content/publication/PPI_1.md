@@ -1,6 +1,6 @@
 +++
 title = "The Cost and Impact of Earliness and Delays in Materials and Parts Delivery"
-date = 2016-10-01T00:00:00
+date = 2016-11-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
