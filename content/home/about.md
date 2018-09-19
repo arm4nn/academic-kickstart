@@ -10,7 +10,7 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Applied Operations Research"
+    "Applied Operations Research",
     "Online Scheduling",
     "Project Supply Chain Management",
     "Supply Chain Scheduling"
