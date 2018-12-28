@@ -54,7 +54,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = []
+url_custom = [https://projectproduction.org/journal/the-cost-and-impact-of-earliness-and-delays-in-materials-and-parts-delivery/]
 
 # Digital Object Identifier (DOI)
 doi = ""
