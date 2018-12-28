@@ -54,7 +54,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Custom Link", url = "https://projectproduction.org/journal/research-digest-preliminary-investigations-into-capital-projects-supply-chain-management/"}]
+url_custom = [{name = "Link", url = "https://projectproduction.org/journal/research-digest-preliminary-investigations-into-capital-projects-supply-chain-management/"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
