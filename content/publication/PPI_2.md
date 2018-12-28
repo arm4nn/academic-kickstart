@@ -42,7 +42,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://projectproduction.org/wp-content/uploads/2017/09/PPI-JOURNAL-RD-Preliminary-Investigations-into-Capital-Projects-Supply-Chain-Management.pdf"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
