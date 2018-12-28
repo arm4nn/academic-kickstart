@@ -42,7 +42,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://projectproduction.org/journal/the-cost-and-impact-of-earliness-and-delays-in-materials-and-parts-delivery/"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
