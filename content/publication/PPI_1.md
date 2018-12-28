@@ -42,7 +42,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://projectproduction.org/journal/the-cost-and-impact-of-earliness-and-delays-in-materials-and-parts-delivery/"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -54,7 +54,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [https://projectproduction.org/journal/the-cost-and-impact-of-earliness-and-delays-in-materials-and-parts-delivery/]
+url_custom = []
 
 # Digital Object Identifier (DOI)
 doi = ""
