@@ -42,7 +42,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "http://www.mhi.org/downloads/learning/cicmhe/blockchain-and-supply-chain-management.pdf"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
