@@ -42,7 +42,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "http://www.mhi.org/downloads/learning/cicmhe/blockchain-and-supply-chain-management.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -54,7 +54,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Link", url = "http://www.mhi.org/downloads/learning/cicmhe/blockchain-and-supply-chain-management.pdf"}]
+url_custom = []
 
 # Digital Object Identifier (DOI)
 doi = ""
