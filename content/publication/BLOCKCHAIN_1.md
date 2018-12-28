@@ -54,7 +54,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = []
+url_custom = [{name = "Link", url = "http://www.mhi.org/downloads/learning/cicmhe/blockchain-and-supply-chain-management.pdf"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
